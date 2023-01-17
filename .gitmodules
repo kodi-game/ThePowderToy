@@ -1,3 +1,0 @@
-[submodule "winpthreads"]
-	path = externals/winpthreads
-	url = https://github.com/martell/pthreads-win32.cmake.git
